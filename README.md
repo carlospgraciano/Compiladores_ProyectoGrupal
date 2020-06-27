@@ -13,5 +13,5 @@ Los **miembros** de este grupo son:
 * *Francisco Florian*: **Pendiente**
 * *Rosalina Norberto*: **Pendiente**
 * *Ines Cuevas*: **Pendiente**
-* *Jorge Cuevas*: **Pendiente**
+* *Jorge Cuevas*: **19-0459**
 * *Rafael Batista*: **Pendiente**
