@@ -8,6 +8,12 @@ Nuestro analizador léxico **cumple** con los siguientes **requerimientos**:
 * Al final de cada grupo de tokens, deberá notificar si la expresión es Válida o si es Incorrecta.
 * Ver figura de abajo para ilustrarse sobre el diseño visual de su proyecto
 
+Este proyecto fue hecho utilizando las siguientes **herramientas**:
+* [**Java JDK 8**](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html)
+* [**JFlex v1.4.3**](https://mega.nz/#!kp5wmSTR!VRGITdbm5zuSWDMeZ8hVgVYWCNl-J0gMcAqQ2k8FBfM)
+* [**Eclipse IDE**](https://www.eclipse.org/downloads/)
+* [**WindowBuilder para JFrame (Eclipse IDE)**](https://es.stackoverflow.com/questions/102406/como-agregar-jframe-en-eclipse)
+
 Los **miembros** de este grupo son:
 * *Carlos Polanco*: **19-0728**
 * *Francisco Florian*: **19-0730**
